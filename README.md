@@ -18,8 +18,7 @@ A simple and intuitive chatting application developed in Java that allows users 
 - Java Swing for the graphical user interface.
 - Sockets for real-time networking and communication.
 
-## Screenshots
-![Chatting Application Screenshot](https://drive.google.com/uc?id=175lNWIEQ_gPGhq2tXJ_yXks3IDrZJLRn)
+
 
 
 
