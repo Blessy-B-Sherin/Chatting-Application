@@ -19,7 +19,7 @@ A simple and intuitive chatting application developed in Java that allows users 
 - Sockets for real-time networking and communication.
 
 ## Demo Video
-[Watch Demo Video](Chatting Application/bin/icons/demo.mp4)
+[Watch Demo Video](./bin/icons/demo.mp4)
 
 
 
