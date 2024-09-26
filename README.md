@@ -18,6 +18,12 @@ A simple and intuitive chatting application developed in Java that allows users 
 - Java Swing for the graphical user interface.
 - Sockets for real-time networking and communication.
 
+## Demo Video
+[Watch Demo Video](./bin/demo.mp4)
+
+
+
+
 
 
 
